@@ -1,4 +1,4 @@
-Welcome, everyone! This is Gabe's better version of the MATH 1028 course page. I got bored and was pissed off at George's Page soooooo......  
+Welcome, everyone! This is Gabe's better version of the MATH 1028 course page. I got bored and was pissed off at George's Page. By the way, feel free to DM me on discord (GabeThatGuy#9964) if you have any requests regarding this I should add to the page. Thanks!
 
 
 ## News  
