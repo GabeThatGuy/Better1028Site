@@ -1,4 +1,3 @@
-# MATH 1028 Course Homepage
 Welcome, everyone! This is Gabe's better version of the MATH 1028 course page. I got bored and was pissed off at George's Page soooooo......  
 
 
