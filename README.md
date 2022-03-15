@@ -1,13 +1,12 @@
 Welcome, everyone! This is Gabe's better version of the MATH 1028 course page. I got bored and was pissed off at George's Page soooooo......  
 
 
-## News
-- [NEWEST] (March 9, 2022) Pick your midterm HERE.  
-- [NEWER]  (March 7, 2022) The Unofficial Grades for Problem Set #2 are here.  
+## News  
+- [NEWEST]  (March 7, 2022) The Unofficial Grades for Problem Set #2 are here.  
 - [NEW]    (Feb. 16, 2022) Due time of Assig. #2 is moved to 10:00pm (same date: Feb. 17, 2022).  
 
 - (Feb. 15, 2022) The Unofficial Grades for Problem Set #1 are here.  
-- (Feb. 10, 2022) In Q. 3 of Assig. #2 it says "Let A be a nonempty  a set". It does not specify what kind of set, so we may NOT assume it is a relation. Thus A^2 means A x A, NOT composition of relations.  
+- (Feb. 10, 2022) In Q. 3 of Assig. #2 it says "Let A be a nonempty  a set". It does not specify what kind of set, so we may NOT assume it is a relation. Thus ``A^2`` means ``A \times A``, NOT composition of relations.  
 
 - (Jan. 31, 2022). Please note that our on line MidTerm was moved to Wednesday March 9, to allow results to be posted before the March 18 drop date.  
 
