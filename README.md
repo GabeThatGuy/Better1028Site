@@ -1,19 +1,19 @@
-Welcome, everyone! This is Gabe's better version of the MATH 1028 course page. I got bored and was pissed off at George's Page soooooo......  
+Welcome, everyone! This is Gabe's better version of the MATH 1028 course page. I got bored and was pissed off at George's Page.  
+By the way, feel free to DM me on discord (GabeThatGuy#9964) if you have any requests regarding this I should add to the page. Thanks!
 
 
-## News
-- [NEWEST] (March 9, 2022) Pick your midterm HERE.  
-- [NEWER]  (March 7, 2022) The Unofficial Grades for Problem Set #2 are here.  
-- [NEW]    (Feb. 16, 2022) Due time of Assig. #2 is moved to 10:00pm (same date: Feb. 17, 2022).  
+## News  
+- [NEWEST]  (March 7, 2022) The Unofficial Grades for Problem Set #2 are [below](#grades).  
+- [NEW]    (Feb. 16, 2022) Due time of Assignment #2 is moved to 10:00pm (same date: Feb. 17, 2022).  
 
-- (Feb. 15, 2022) The Unofficial Grades for Problem Set #1 are here.  
-- (Feb. 10, 2022) In Q. 3 of Assig. #2 it says "Let A be a nonempty  a set". It does not specify what kind of set, so we may NOT assume it is a relation. Thus A^2 means A x A, NOT composition of relations.  
+- (Feb. 15, 2022) The Unofficial Grades for Problem Set #1 are [below](#grades).  
+- (Feb. 10, 2022) In Question 3 of Assignment #2 it says "Let A be a nonempty  a set". It does not specify what kind of set, so we may NOT assume it is a relation.  
 
 - (Jan. 31, 2022). Please note that our on line MidTerm was moved to Wednesday March 9, to allow results to be posted before the March 18 drop date.  
 
 - (Jan. 27, 2022).See amemnded Tutorial Rooms. See also Assig #1 new due time: 4:35pm, since you have a class to 2:30pm and tutorial to 4:30pm.  
 
-- (Jan. 26, 2022). Please note the corrected typo regarding the midterm end time: It is 14:30 (March 16).  
+- (Jan. 26, 2022). Please note the corrected typo regarding the midterm end time: It is 14:30 (March 9).  
 - (Jan. 24, 2022). The University announced that all first-year classes/tutorials will start meeting in-person on Monday, February 7, 2022. This includes EECS 1028. The on line lectures (both live and video recorded) terminate with the  last being on the Friday Feb. 4.  
 - (Jan. 16, 2022). Zoom Tutorials are starting tomorrow. Please see below in the Tutorials table the TA's first name for each, and the relevant ZOOM Links (accessible from eClass). Also note the posting of Problem Set #1 :). 
 
@@ -35,6 +35,12 @@ Find your room number for tutorial or lectures here.
 - *Monday* 19:30 - 21:30 (7:30pm - 9:30pm), **Accolade East Room 002**, Instructor: **Umme**.
 - *Friday* 15:30 - 17:30 (3:30pm - 7:30pm), **Accolade West Room 004**, Instructor: **Umme**.
 - *Monday* 14:30 - 16:30 (2:30pm - 4:30pm), **Accolade East Room 005**, Instructor: **Safayet**.
+
+## Grades
+- [Problem Set 1](http://www.cs.yorku.ca/~gt/courses/EECS1028W22/report-1.pdf)
+- [Problem Set 2](http://www.cs.yorku.ca/~gt/courses/EECS1028W22/report-2.pdf)
+- Problem Set 3 (Grades not here yet)
+- Midterm (Grades not here yet)
 
 ## PASS Session Information
 #### From **Patric Baciu**
